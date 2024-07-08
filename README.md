@@ -1,0 +1,1 @@
+Automação de testes com Cypress que envolve a validação de três logins diferentes no site Sauce Demo. Além disso, o projeto inclui a automação de um fluxo completo de compra, garantindo que cada etapa do processo seja validada com sucesso. Isso inclui desde a seleção de produtos até a finalização da compra, assegurando a precisão e a integridade da experiência do usuário no site.
